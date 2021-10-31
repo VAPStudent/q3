@@ -8,7 +8,7 @@ https://www.npmjs.com/package/json-server
 
 ## After git clone (or download the zip file) open in VSCode.
 
-open terminal:
+## open terminal:
 >npm install -g json-server
 
 >npm install
